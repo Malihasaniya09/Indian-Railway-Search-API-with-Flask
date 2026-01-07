@@ -30,8 +30,9 @@ Installation
 
 1. Clone the repository
 
-git clone https://github.com/Malihasaniya09/railway-search-api.git
-cd railway-search-api
+git clone https://github.com/Malihasaniya09/Indian-Railway-Search-API-with-Flask.git
+cd Indian-Railway-Search-API-with-Flask
+
 
 2. Install dependencies
 
